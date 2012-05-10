@@ -1,0 +1,15 @@
+body.opensans,
+body.opensans input,
+body.opensans textarea,
+body.opensans a.button,
+body.opensans button.button {
+    font-family: "Open Sans", "Helvetica Neue", "Helvetica", Arial, sans-serif;
+}
+
+#layout_footer .opensans-plugin {
+  background: url('icon-16.png') no-repeat 50% 50%;
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  vertical-align: middle;
+}
